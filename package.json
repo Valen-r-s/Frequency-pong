@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "vercel": "^39.3.0"
+  },
+  "scripts": {
+    "deploy": "vercel --prod"
   }
 }
