@@ -16,15 +16,11 @@ A modern twist on the classic Pong game, developed in Unity. Frequency Pong feat
 - TextMeshPro (TMP): For displaying player scores.
 - WebGL: To export and make the game playable in browsers.
 - Mathf.Sin (Unity API): For generating sine wave audio dynamically.
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 
 ## 🚀How to Play
 
-
 1. Launch the game in your browser.
+
 ![Static Badge](https://img.shields.io/badge/play-badge?style=for-the-badge&logo=Unity&labelColor=black&color=white&link=https%3A%2F%2Ffrequency-pong.vercel.app%2F)
 
 2. Control the paddles to hit the ball. Player 1 uses W/S, and Player 2 uses Up/Down keys.
