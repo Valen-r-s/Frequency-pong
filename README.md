@@ -13,7 +13,6 @@ A modern twist on the classic Pong game, developed in Unity. Frequency Pong feat
 ## 🖥️ Languages and Tools Used
 - C#: Primary programming language for game logic and audio generation.
 - Unity: Game engine used for designing and building the 2D environment.
-- TextMeshPro (TMP): For displaying player scores.
 - WebGL: To export and make the game playable in browsers.
 - Mathf.Sin (Unity API): For generating sine wave audio dynamically.
 
