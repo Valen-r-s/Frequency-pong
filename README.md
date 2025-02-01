@@ -24,9 +24,9 @@ A modern twist on the classic Pong game, developed in Unity. Frequency Pong feat
 
 3. Control the paddles to hit the ball. Player 1 uses W/S, and Player 2 uses Up/Down keys.
 4. The ball produces a sound upon every collision:
-Walls: Produces a high-pitched tone.
-Paddles: Produces different tones for each paddle.
-Goals: Plays a celebratory tone.
+- Walls: Produces a high-pitched tone.
+- Paddles: Produces different tones for each paddle.
+- Goals: Plays a celebratory tone.
 ## 🔗 Contact Information
 [![portfolio](https://img.shields.io/badge/My%20portfolio%20-%20hotpink?style=for-the-badge&logo=kofi&logoColor=black)](https://portfolio-86-seven.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%20blue?style=for-the-badge&logo=linkedin&logoColor=snow)](https://www.linkedin.com/in/valentina-restrepo-0389812a2/)
