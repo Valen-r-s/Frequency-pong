@@ -21,8 +21,8 @@ A modern twist on the classic Pong game, developed in Unity. Frequency Pong feat
 
 [![PongGame](https://img.shields.io/badge/play-badge?style=for-the-badge&logo=Unity&labelColor=black&color=gray)](https://frequency-pong-valen-r-s-valenrs-projects.vercel.app/)
 
-3. Control the paddles to hit the ball. Player 1 uses W/S, and Player 2 uses Up/Down keys.
-4. The ball produces a sound upon every collision:
+2. Control the paddles to hit the ball. Player 1 uses W/S, and Player 2 uses Up/Down keys.
+3. The ball produces a sound upon every collision:
 - Walls: Produces a high-pitched tone.
 - Goals: Plays a celebratory tone.
 ## 🔗 Contact Information
